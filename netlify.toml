@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/investors/*"
+    to = "https://soggyinkgames-investors.netlify.app/:splat"  
+    status = 200
+  force = true

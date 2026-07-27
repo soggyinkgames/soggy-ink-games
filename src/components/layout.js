@@ -61,6 +61,9 @@ const Layout = props => {
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home" role="menuitem">
+                <Link to={`/investors/`}>Investors</Link>
+              </li>
+              <li className="nav-home" role="menuitem">
                 <Link to={`/`}>What</Link>
               </li>
               <li className="nav-bio" role="menuitem">
